@@ -142,5 +142,5 @@ Contributions, feature requests, and suggestions are welcome.
 
 Developed with passion to empower learning, networking, and career growth through mentorship.
 
-### ⭐ If you like this project, don't forget to star the repository!
+
 
