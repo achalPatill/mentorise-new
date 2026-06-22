@@ -1,4 +1,3 @@
-# mentorise
 # 🚀 Mentorise
 
 **Mentorise** is an AI-powered mentor-mentee platform designed to connect students, professionals, and industry experts through meaningful mentorship. The platform enables users to discover mentors, schedule sessions, communicate in real-time, participate in video meetings, and receive personalized AI-assisted guidance for learning and career growth.
